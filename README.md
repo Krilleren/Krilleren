@@ -13,6 +13,7 @@ Currently a FiveM developer with additional experience in various projects, incl
 ## 🖥️ My GitHub stats
 
 ![Krilleren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krilleren&theme=react&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krilleren&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📬 Contact Me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/831553710794080336)
