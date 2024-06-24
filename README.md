@@ -1,6 +1,8 @@
 ## 👋 About Me
 Currently a FiveM developer with additional experience in various projects, including Discord application development.
 
+Developer for Pixel Scripts: https://discord.gg/Gvxmh4STrG
+
 
 ## 🍄 Languages and programs 
 <p align="center">
