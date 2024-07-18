@@ -10,7 +10,7 @@ Developer for Pixel Scripts: https://discord.gg/Gvxmh4STrG
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png"/>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3.png"/>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js.png"/>
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/python.svg"/>
+<img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=plastic"/>
 </p>
 
 ## 🖥️ My GitHub stats
